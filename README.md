@@ -8,10 +8,10 @@ Password: MHAT
 
 
 ```
-@inproceedings{han2023benchmarking,
+@article{han2023benchmarking,
   title={Benchmarking the Complementary-View Multi-human Association and Tracking},
   author={Ruize Han, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang},
-  booktitle={International Journal of Computer Vision},
+  journal={International Journal of Computer Vision},
   year={2023},
   organization={Springer}
 }
