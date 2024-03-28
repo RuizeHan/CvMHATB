@@ -3,9 +3,8 @@ IJCV 2023 | Benchmarking the Complementary-View Multi-human Association and Trac
 
 [2023.12] We have uploaded the dataset with annotations at Baidu Netdisk.
 
-Dataset Link: https://pan.baidu.com/s/1P7yLRO-e5W6u5wePJBxnfA 
+Dataset Link: https://pan.baidu.com/s/1tw8voHsDp-Fgv0mWim7kgA
 Password: MHAT 
-
 
 ```
 @article{han2023benchmarking,
