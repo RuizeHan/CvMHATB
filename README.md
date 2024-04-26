@@ -1,7 +1,5 @@
 # MHATB
 
-<div align= justify>
-
 ## IJCV 2023 | Benchmarking the Complementary-View Multi-human Association and Tracking
 
 ## The first dataset including the complementary top- and horizontal-view videos taken by multiple moving cameras. 
