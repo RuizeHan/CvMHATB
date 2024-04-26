@@ -2,6 +2,8 @@
 
 ## IJCV 2023 | Benchmarking the Complementary-View Multi-human Association and Tracking
 
+<div align= justify>
+
 ## The first dataset including the complementary top- and horizontal-view videos taken by multiple moving cameras. 
 
 [2023.12] We have uploaded the dataset with annotations at Baidu Netdisk.
