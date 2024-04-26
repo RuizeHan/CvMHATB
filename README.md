@@ -15,7 +15,7 @@ Password: MHAT
 
 Using multiple moving cameras with different and time-varying views can significantly expand the capability of multiple human tracking in larger areas and with various perspectives. In particular, the use of moving cameras of complementary top and horizontal views can facilitate multi-human detection and tracking from both global and local perspectives. As a new challenging problem that has drawn more and more attention in recent years, one main issue is the lack of a comprehensive dataset for credible performance evaluation. In this paper, we present such a new dataset consisting of videos synchronously recorded by drone and wearable cameras, with high-quality annotations of the covered subjects and their cross-frame and cross-view associations. We also propose a pertinent baseline algorithm for multi-view multiple human tracking and evaluate it on this new dataset against the annotated ground truths. Experimental results verify the usefulness of the new dataset and the effectiveness of the proposed baseline algorithm.
 
-<div align=center><img src="https://github.com/RuizeHan/PAR/blob/main/poster.png" width="825" height="125" alt="example"/><br/>
+<div align=center><img src="https://github.com/RuizeHan/CvMHATB/blob/main/poster.png" width="825" height="125" alt="example"/><br/>
 
 ```
 @article{han2023benchmarking,
