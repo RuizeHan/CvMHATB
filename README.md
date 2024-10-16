@@ -9,7 +9,7 @@
 [2024.10] We have uploaded some metadata generated from our method to Baidu Netdisk.
 
 Data Link: https://pan.baidu.com/s/1m9mXxDALsV-Tm5UI1M-0Xw 
-Password： MHAT
+Password: MHAT
 
 [2023.12] We have uploaded the dataset with annotations at Baidu Netdisk.
 
